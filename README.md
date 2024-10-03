@@ -8,3 +8,8 @@ Shape Rifs Reference is a catalog of all the various non-level object meshes. Wh
 This catalog is written entirely in HTML and CSS but is intended as an offline reference. I don't really feel like setting it up for online viewing at this time, but maybe in the future.
 
 I'll additionally be putting my own custom shape rifs in this repository as well for easy access.
+
+### Credits
+- **apc** - Rebellion, Olde
+- **apc2** - Rebellion, Olde
+- **apcopen** - Rebellion, RhapsodyInGeek, Olde
