@@ -12,6 +12,7 @@ This catalog is written entirely in HTML and CSS but is intended as an offline r
 I'll additionally be putting my own custom shape rifs in this repository as well for easy access.
 
 ### Credits
-- **apc** - Rebellion, Olde
-- **apc2** - Rebellion, Olde
-- **apcopen** - Rebellion, RhapsodyInGeek, Olde
+- **apc_caverns** - Rebellion, Olde
+- **apc, apc_open, apc2, apc2_open** - Rebellion, RhapsodyInGeek, Olde
+- **predship_landed** - Rebellion, RhapsodyInGeek
+- **skinned_hu** - RhapsodyInGeek, Monolith (texture ripped from AVP2)
