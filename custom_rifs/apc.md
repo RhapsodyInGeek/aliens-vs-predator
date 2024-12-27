@@ -8,4 +8,6 @@ What's left is a fully collidable APC with an open traversable interior. I suppo
 
 Hope this helps make adding APCs to your maps easier!
 
+Update 2024.3: Added variants with moved cannons and closed / open doors. Variety being the spice of life and all that. Enjoy!
+
 -Tim
